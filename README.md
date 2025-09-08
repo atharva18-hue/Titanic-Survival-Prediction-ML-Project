@@ -9,13 +9,6 @@
 
 ---
 
-## 👤 Author
-**Atharva Chavhan**  
-- GitHub: [atharva18-hue](https://github.com/atharva18-hue)  
-- Email: atharvachavhan18@gmail.com  
-
----
-
 ## 🔹 Features
 - 🧹 Clean and preprocess Titanic dataset  
 - ⚙️ Feature engineering for better model performance  
@@ -124,3 +117,10 @@ Add new features
 💾 Joblib model files included
 
 ------------------------------------------------------------------------------------------------
+
+## 👤 Author
+**Atharva Chavhan**  
+- GitHub: [atharva18-hue](https://github.com/atharva18-hue)  
+- Email: atharvachavhan18@gmail.com
+
+- ----------------------------------------------------------------------------------------------
