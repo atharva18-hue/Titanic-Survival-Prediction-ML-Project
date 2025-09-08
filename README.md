@@ -92,24 +92,35 @@ Titanic-Survival-Prediction-ML-Project/
  ----------------------------------------------------------------------------------------------
  
  ## Usage
+ 
 Open the web application
+
 Fill passenger details
+
 Click Predict
+
 View survival prediction results 🏆
 
 ------------------------------------------------------------------------------------------------
 
  ## Contributing
+ 
 Pull requests welcome!
+
 Improve ML model accuracy
+
 Enhance UI/UX
+
 Add new features
 
 ------------------------------------------------------------------------------------------------
 
- ## Notes
+## Notes
+
 ⚠️ Development server only
+
 🔒 Keep .env for secret keys
+
 💾 Joblib model files included
 
 ------------------------------------------------------------------------------------------------
