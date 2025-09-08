@@ -24,7 +24,7 @@
 - **Data Processing:** Pandas, NumPy 📊  
 - **Machine Learning:** Scikit-learn 🤖  
 - **Frontend:** HTML, CSS, Bootstrap 🎨  
-- **Model Storage:** Joblib `.joblib` files 💾  
+- **Model Storage:** Joblib `.joblib` files 💾 
 
 ------------------------------------------------------------------------------------------------
 
@@ -84,27 +84,25 @@ Titanic-Survival-Prediction-ML-Project/
 
  ----------------------------------------------------------------------------------------------
  
- ## Usage
- 
-Open the web application
+ ## Usage Flow:
 
-Fill passenger details
+Open the web application in a browser
+
+Fill passenger details (age, sex, class, etc.)
 
 Click Predict
 
-View survival prediction results 🏆
+View survival prediction results
 
-------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
- ## Contributing
- 
-Pull requests welcome!
+## Highlights:
 
-Improve ML model accuracy
+Fully functional Django + ML web app
 
-Enhance UI/UX
+Real-time predictions using pre-trained ML models
 
-Add new features
+Clean, interactive UI for easy testing
 
 ------------------------------------------------------------------------------------------------
 
