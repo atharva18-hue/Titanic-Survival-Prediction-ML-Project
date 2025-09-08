@@ -33,32 +33,44 @@
 - **Frontend:** HTML, CSS, Bootstrap 🎨  
 - **Model Storage:** Joblib `.joblib` files 💾  
 
----
+------------------------------------------------------------------------------------------------
 
 ## ⚡ Setup Instructions
-```bash
+
 # Clone repository
 git clone https://github.com/atharva18-hue/Titanic-Survival-Prediction-ML-Project.git
 cd Titanic-Survival-Prediction-ML-Project
 
+------------------------------------------------------------------------------------------------
+
 # Create virtual environment
 python -m venv venv
-.\venv\Scripts\activate  # Windows
+.\venv\Scripts\activate
+
+------------------------------------------------------------------------------------------------
 
 # Install dependencies
 pip install -r requirements.txt
 
+------------------------------------------------------------------------------------------------
+
 # Apply migrations
 python manage.py migrate
+
+------------------------------------------------------------------------------------------------
 
 # Run server
 python manage.py runserver
 
+------------------------------------------------------------------------------------------------
+
 # Open in browser
 http://127.0.0.1:8000/
-📂 Project Structure
-csharp
-Copy code
+
+------------------------------------------------------------------------------------------------
+
+ ## Project Structure
+ 
 Titanic-Survival-Prediction-ML-Project/
  ├── manage.py
  ├── db.sqlite3
@@ -76,26 +88,28 @@ Titanic-Survival-Prediction-ML-Project/
  ├── venv/          # Ignored in git
  ├── .gitignore
  └── README.md
-🎯 Usage
+
+ ----------------------------------------------------------------------------------------------
+ 
+ ## Usage
 Open the web application
-
 Fill passenger details
-
 Click Predict
-
 View survival prediction results 🏆
 
-🤝 Contributing
+------------------------------------------------------------------------------------------------
+
+ ## Contributing
 Pull requests welcome!
-
 Improve ML model accuracy
-
 Enhance UI/UX
-
 Add new features
 
-📌 Notes
+------------------------------------------------------------------------------------------------
+
+ ## Notes
 ⚠️ Development server only
 🔒 Keep .env for secret keys
 💾 Joblib model files included
 
+------------------------------------------------------------------------------------------------
