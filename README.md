@@ -4,15 +4,15 @@
 [![Django](https://img.shields.io/badge/Django-5.2-green?logo=django&logoColor=white)](https://www.djangoproject.com/) 
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-> Predicting passenger survival on the Titanic using **Machine Learning** 🧠💻  
-> A Django web app integrating predictive models, interactive templates, and a user-friendly interface. 📊✨
+> Predicting passenger survival on the Titanic using **Machine Learning** 🧠  
+> A Django web app integrating predictive models, interactive templates, and a user-friendly interface. 
 
 ---
 
 ## 🔹 Features
 - 🧹 Clean and preprocess Titanic dataset  
 - ⚙️ Feature engineering for better model performance  
-- 🌳🤖 Machine Learning models: Logistic Regression, Random Forest, Decision Trees  
+- 🤖 Machine Learning models: Logistic Regression, Random Forest, Decision Trees  
 - 🖥️ Interactive web interface with Django templates  
 - 🛳️ Predict survival for new passengers in real-time  
 - 🏆 Results displayed clearly with HTML pages  
