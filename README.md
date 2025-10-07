@@ -4,10 +4,16 @@
 [![Django](https://img.shields.io/badge/Django-5.2-green?logo=django&logoColor=white)](https://www.djangoproject.com/) 
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-> Predicting passenger survival on the Titanic using **Machine Learning** 🧠  
-> A Django web app integrating predictive models, interactive templates, and a user-friendly interface. 
+ Predicting passenger survival on the Titanic using **Machine Learning** 🧠  
+A Django web app integrating predictive models, interactive templates, and a user-friendly interface. 
 
 ---
+
+## Project Video
+
+https://github.com/user-attachments/assets/35f1c4f7-831b-4a0d-990f-8203c7900ff4
+
+----------------------------------------------------------------
 
 ## 🔹 Features
 - 🧹 Clean and preprocess Titanic dataset  
